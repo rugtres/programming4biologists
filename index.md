@@ -15,6 +15,12 @@
 
 | Getting Started [![laptop](img/laptop.png)](https://rugtres.github.io/programming4biologists/getting-started) | Lecture Manual ![book](img/book.png) |
 
+Stuck with C++? Forgot a command or how to use it? Find help online!
+
+- [cplusplus](https://www.cplusplus.com/)
+- [cppreference](https://en.cppreference.com/w/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/c%2B%2B)
+
 ### Support
 
 Having trouble? Call an assistant during class or send us an email!
