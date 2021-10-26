@@ -1,4 +1,4 @@
-## Home ![Home](img/home.jpg)
+## Home [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/)
 
 ### Schedule
 
@@ -14,6 +14,7 @@
 ### Resources
 
 | Getting Started | Lecture Manual |
+|-----------------|----------------|
 
 ### Support
 
