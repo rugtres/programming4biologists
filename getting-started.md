@@ -36,7 +36,7 @@ Use this script to run VSCode.
 
 1. Download [this](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip) zip folder.
 2. Unzip it with with your archive manager or in command line with `unzip path/to/folder`.
-3. Open your terminal and navigate to where the folder is with cd path/to/unzipped/folder.
+3. Open your terminal and navigate to where the folder is with `cd path/to/unzipped/folder`.
 4. Make sure the file `install_vscode.sh` is executable with `ls -al`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x install_vscode.sh`. 
 5. Execute the bash file with `source install_vscode.sh`. If you are not in root, you will be prompted for your password.
 
