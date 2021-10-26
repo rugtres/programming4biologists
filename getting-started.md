@@ -1,8 +1,12 @@
 ## Getting Started
+{:.no_toc}
 
 Visual Studio Code (VSCode for short) is an advanced text editor that is cross-platform. 
 It works on Windows, Mac, or Linux OS.
 We will use VSCode to learn C++, so buckle up and let's get started!
+
+* Table of Contents
+{:toc}
 
 ### Windows OS / UWP
 #### Install on UWP (X-drive)
