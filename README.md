@@ -8,4 +8,4 @@ This repository hosts submodules of forked repositories:
 
 They contain code and instructions for installing and setting up Visual Studio Code for the course, on Windows or Linux.
 
-Checkout the website for more information.
+Checkout our [webpage](https://rugtres.github.io/programming4biologists/) for more information.
