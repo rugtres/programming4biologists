@@ -23,7 +23,7 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 3. Download this repository as zip and extract it to the Desktop. 
 4. Run `setup_C.bat`. Accept all default choices and ignore warnings.
 
-#### Launch Visual Studio Code.
+#### Launch Visual Studio Code
 
 After installation, you can find the folder *vscode_projects* on the installation drive (*X: or C:*) and within it the file `launch_vscode.bat`. 
 Use this script to run VSCode.
