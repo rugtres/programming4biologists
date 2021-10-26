@@ -13,14 +13,14 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 
 1. Download the msys2 installer from https://www.msys2.org. 
 2. Run the installer. Set *X:\msys64* as installation folder.
-3. Download [this](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) zip folder and extract it to the Desktop. 
+3. Download [this ![zip](img/zip.png)](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) zip folder and extract it to the Desktop. 
 4. Run `setup_X.bat`. Accept all default choices and ignore warnings. Note that the command will take a long time on *uwp.rug.nl*.
 
 #### Install on regular Windows (C-drive)
 
 1. Download the msys2 installer from https://www.msys2.org. 
 2. Run the installer. Leave the installation folder at default (*C:\msys64*)
-3. Download [this](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) zip folder and extract it to the Desktop. 
+3. Download [this ![zip](img/zip.png)](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) zip folder and extract it to the Desktop. 
 4. Run `setup_C.bat`. Accept all default choices and ignore warnings.
 
 #### Launch Visual Studio Code
@@ -34,7 +34,7 @@ Use this script to run VSCode.
 
 #### Install
 
-1. Download [this](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip) zip folder.
+1. Download [this ![zip](img/zip.png)](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip) zip folder.
 2. Unzip it with with your archive manager or in command line with `unzip path/to/folder`.
 3. Open your terminal and navigate to where the folder is with `cd path/to/unzipped/folder`.
 4. Make sure the file `install_vscode.sh` is executable with `ls -al`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x install_vscode.sh`. 
