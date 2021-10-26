@@ -9,14 +9,15 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 {:toc}
 
 ### Windows OS / UWP
-#### Install on UWP (X-drive)
+#### Install Visual Studio Code
+##### UWP (X-drive)
 
 1. Download the msys2 installer from https://www.msys2.org. 
 2. Run the installer. Set *X:\msys64* as installation folder.
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
 4. Run `setup_X.bat`. Accept all default choices and ignore warnings. Note that the command will take a long time on *uwp.rug.nl*.
 
-#### Install on regular Windows (C-drive)
+##### Regular Windows (C-drive)
 
 1. Download the msys2 installer from https://www.msys2.org. 
 2. Run the installer. Leave the installation folder at default (*C:\msys64*)
@@ -30,7 +31,7 @@ Use this script to run VSCode.
 
 ### Mac OS
 
-#### Install VSCode
+#### Install Visual Studio Code
 
 1. [Download Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534106) for macOS.
 2. Open the browser's download list and locate the downloaded archive.
@@ -39,13 +40,13 @@ Use this script to run VSCode.
 5. Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing **Options, Keep in Dock**.
 
 #### Launch Visual Studio Code and add Extensions
-Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Extensions** symbol. There, look for and install the following extensions:
+Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Extensions** symbol ![ext](img/extensions.png). There, look for and install the following extensions:
 - ms-vscode.cmake-tools (CMake Tools)
 - ms-vscode.cpptools (C/C++)
 
 ### Linux OS
 
-#### Install
+#### Install Visual Studio Code
 
 1. Download [this ![zip](img/zip.png) zip](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip).
 2. Extract the folder with with your archive manager or in command line with `unzip path/to/folder`.
