@@ -14,7 +14,6 @@
 ### Resources
 
 | Getting Started | Lecture Manual |
-|-----------------|----------------|
 
 ### Support
 
