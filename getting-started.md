@@ -30,6 +30,19 @@ Use this script to run VSCode.
 
 ### Mac OS
 
+#### Install VSCode
+
+1. [Download Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534106) for macOS.
+2. Open the browser's download list and locate the downloaded archive.
+3. Extract the archive contents. Use double-click for some browsers or select the 'magnifying glass' icon with Safari.
+4. Drag `Visual Studio Code.app` to the `Applications` folder, making it available in the macOS Launchpad.
+5. Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing **Options, Keep in Dock**.
+
+#### Launch Visual Studio Code and add Extensions
+Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Extensions** symbol. There, look for and install the following extensions:
+- ms-vscode.cmake-tools (CMake Tools)
+- ms-vscode.cpptools (C/C++)
+
 ### Linux OS
 
 #### Install
