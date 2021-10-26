@@ -13,7 +13,7 @@
 
 ### Resources
 
-| Getting Started | Lecture Manual |
+| Getting Started ![laptop](img/laptop.png) | Lecture Manual ![book](img/book.png) |
 
 ### Support
 
