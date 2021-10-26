@@ -1,4 +1,4 @@
-## Welcome!
+## Home ![Home](img/home.jpg)
 
 ### Schedule
 
@@ -13,7 +13,7 @@
 
 ### Resources
 
-| Getting Started | Lecture Manual | 
+| Getting Started | Lecture Manual |
 
 ### Support
 
