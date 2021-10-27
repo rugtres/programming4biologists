@@ -1,4 +1,4 @@
-## Home [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/)
+## [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/) Home
 
 ### Schedule
 
