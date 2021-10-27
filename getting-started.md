@@ -63,7 +63,7 @@ The app should open automatically upon completion of the installation. It will o
 - a `main.cpp` file with the C++ code.
 - a `build` folder, created by Visual Studio Code, which you can ignore.
 
-Click on the **Launch** button in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
