@@ -56,7 +56,7 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 1. Download [this ![zip](img/zip.png) zip](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip).
 2. Extract the folder with your archive manager or in command line with `unzip path/to/folder`.
 3. Open your terminal and navigate to where the folder is with `cd path/to/unzipped/folder`.
-4. Make sure the file `install_vscode.sh` is executable with `ls -al`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x install_vscode.sh`. 
+4. Make sure the file `install_vscode.sh` is executable with `ls -l`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x install_vscode.sh`. 
 5. Execute the bash file with `source install_vscode.sh`. If you are not in root, you will be prompted for your password.
 
 *These instructions are for Linux Distributions with `apt`, such as Ubuntu or Debian for instance. You will need admin rights to install VSCode.*
