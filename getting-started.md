@@ -58,8 +58,14 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 
 #### Launch Visual Studio Code
 
-Open the app as you would any other application. 
-It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
-Just click on *Trust*, and you're good to go!
+The app should open automatically upon completion of the installation. It will open a pre-made project (`cmake-project`), which contains:
+- a `CMakeLists.txt` file with compilation instructions.
+- a `main.cpp` file with the C++ code.
+- a `build` folder, created by Visual Studio Code, which you can ignore.
+
+Click on the **Launch** button in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+
+*It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
+Just click on **Trust**, and you're good to go!*
 
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
