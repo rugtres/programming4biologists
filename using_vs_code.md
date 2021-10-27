@@ -21,6 +21,8 @@ You can install these by navigating to the left-hand side menu. Click on the **E
 There, look for and install the extensions.
 
 ### Checking everything is installed correctly
-With our files downloaded and extensions installed, we can now use VSC to open our working folder. In VSC, 
+With our files downloaded and extensions installed, we can now use VSC to open our working folder. In VSC, choose File -> Open Folder and 
+open your folder. Then, select 'Yes, I trust these authors'. VSC will now show a drop down menu where you are to select your 'Kit'. A Kit
+is the underlying compiler used by VSC. You can pick your favourite here 
 
 
