@@ -26,7 +26,16 @@ open your folder. Then, select 'Yes, I trust these authors'. VSC will now show a
 is the underlying compiler used by VSC. You can pick your favourite here, or pick 'unspecified' if you don't know, both work fine. 
 If the kit selection menu disappeared (because you navigated back to this webpage for instance), you can make it reappear by pressing
 CTRL+SHIFT+P (or CMD + SHIFT + P on macos). 
-Your VSC will now look something similar to this:
+Your VSC will now look similar to this:
 ![](img/vscode.png)
 
+At the bottom of VSC, there are three buttons: Build, Debug and Run, identified by the associated pictograms: a gear icon, a turtle icon and a play icon.
+If you press the play icon, your code will execute, and it will display 'Hello CMake'! Congratulations, you just compiled, built and ran your C++ program!
+If these buttons are not available, this indicates that you are missing the CMake Tools extension. Please see the section above to install this.
+
+### Debugging
+An important tool in programming is to be able to break your program at a specific line, and execute the program step-by-step. You can also do this in VSC. 
+To do this, first click left of line 6 in your code to create a bright red dot next to the line. This indicates that we want to pause our program at this 
+location. Then, select the 'Run and Debug' menu on the left, indicated by the turtle and play icon. 
+Here, click on 'Run and Debug'. VSC will now ask you what environment to choose, choose the environment appropriate for your operating system. 
 
