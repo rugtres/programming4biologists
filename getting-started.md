@@ -27,7 +27,12 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 #### Launch Visual Studio Code
 
 After installation, you can find the folder `vscode_projects` on the installation drive (`X:` or `C:`) and within it the file `launch_vscode.bat`. 
-Use this script to run Visual Studio Code.
+Use this script to run Visual Studio Code. It will open a pre-made project (`cmake-project`), which contains:
+- a `CMakeLists.txt` file with compilation instructions.
+- a `main.cpp` file with the C++ code.
+- a `build` folder, created by Visual Studio Code, which you can ignore.
+
+Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
 ### Mac OS
 
