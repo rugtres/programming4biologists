@@ -22,7 +22,7 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 1. Download the msys2 installer from https://www.msys2.org. 
 2. Run the installer. Keep the default installation folder (`C:\msys64`).
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
-4. Run `setup_C.bat`. Accept all default choices and ignore warnings.
+4. Run `setup_C.bat`. Accept all default choices and ignore warnings. (you may need to run this as administrator to make it work)
 
 #### Launch Visual Studio Code
 
