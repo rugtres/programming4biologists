@@ -70,7 +70,7 @@ The app should open automatically upon completion of the installation. It will o
 
 Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
-![sc_linux](img/linux_screencast.webm.mov)
+https://www.youtube.com/embed/zu-PqYz2xCk
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
