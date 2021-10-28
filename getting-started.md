@@ -70,7 +70,7 @@ The app should open automatically upon completion of the installation. It will o
 
 Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zu-PqYz2xCk" title="YouTube video player&vq=medium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zu-PqYz2xCk&vq=medium" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
