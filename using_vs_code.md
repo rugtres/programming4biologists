@@ -28,7 +28,7 @@ is the underlying compiler used by VSC. You can pick your favourite here, or pic
 If the kit selection menu disappeared (because you navigated back to this webpage for instance), you can make it reappear by pressing
 CTRL+SHIFT+P (or CMD + SHIFT + P on macos). 
 Your VSC will now look similar to this:
-![](img/vscode.png)
+<img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/vscode.png" width = 500>
 
 At the bottom of VSC, there are three buttons: Build, Debug and Run, identified by the associated pictograms: a gear icon, a turtle icon and a play icon.
 If you press the play icon, your code will execute, and it will display 'Hello CMake'! Congratulations, you just compiled, built and ran your C++ program!
