@@ -9,7 +9,8 @@ The easiest way to set up a correct folder is by downloading these files here:
 - [`CMakeLists.txt`](https://github.com/HHildenbrandt/uwp_vscode_setup/blob/master/cmake-project/CMakeLists.txt)
 - [`main.cpp`](https://github.com/HHildenbrandt/uwp_vscode_setup/blob/master/cmake-project/main.cpp)
 
-You can download them by right-clicking on them and choosing 'Save As'. Place them in a new empty folder in which you 
+You can 
+download them by right-clicking on them and choosing 'Save As'. Place them in a new empty folder in which you 
 want to work. Alternatively, you can download both jointly [here](https://github.com/HHildenbrandt/uwp_vscode_setup/tree/master/cmake-project).
 Every time you start a new programming project, you can repeat this and copy these files into a new folder.
 
