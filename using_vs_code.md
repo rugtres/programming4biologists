@@ -35,8 +35,17 @@ If you press the play icon, your code will execute, and it will display 'Hello C
 If these buttons are not available, this indicates that you are missing the CMake Tools extension. Please see the section above to install this.
 
 ### Debugging
-An important tool in programming is to be able to break your program at a specific line, and execute the program step-by-step. You can also do this in VSC. 
-To do this, first click left of line 6 in your code to create a bright red dot next to the line. This indicates that we want to pause our program at this 
-location. Then, select the 'Run and Debug' menu on the left, indicated by the turtle and play icon. 
-Here, click on 'Run and Debug'. VSC will now ask you what environment to choose, choose the environment appropriate for your operating system. 
+An important tool in programming is to be able to break your program at a specific line, and execute the program step-by-step. 
+You can do this in VSC, to do this, first click left of line 6 in your code to create a bright red dot next to the line. This indicates that we want to pause our program at this 
+location. Then, select the 'Run and Debug' menu on the left, indicated by the play icon with a small turtle in front of it.
+Here, click on 'Run and Debug'. VSC will now ask you what environment to choose, choose the environment appropriate for your operating system. Now, VSC will give an error, and aks you to create a launch.json file. Click on 'create launch.json' file to do so. 
+This will open a new launch.json file in VSC. Important here is to change the entry at "program", to make sure that it points towards your executable. The location of that executable may vary depending on your operating system. The best way to find out, is to press the 'play' button. This will show you the location of your executable:
+
+<img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/program_link.png" width = 500>
+                                                                                                          
+Now copy that link (in this case, /Users/janzen/vscode_example/build/cmake-project, where cmake-project is our executable. On windows, you can expect something like C:\\vscode_example\\build\\Debug\\cmake-project.exe), and paste it in the right position in your launch.json file.  
+
+<img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/launch_json_macos.png" width = 500>
+
+Now, you can run the program in Debug mode by pressing F5 (there is no button in the program, only F5 works). 
 
