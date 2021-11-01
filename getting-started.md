@@ -49,6 +49,8 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 - `ms-vscode.cmake-tools` (CMake Tools)
 - `ms-vscode.cpptools` (C/C++)
 
+Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code.
+
 ### Linux OS
 
 #### Install Visual Studio Code
