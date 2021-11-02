@@ -24,6 +24,8 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
 4. Run `setup_C.bat`. Accept all default choices and ignore warnings. (you may need to run this as administrator to make it work)
 
+*You may be prompted during installation. Say [Y]es or press **Enter** for all.*
+
 #### Launch Visual Studio Code
 
 After installation, you can find the folder `vscode_projects` on the installation drive (`X:` or `C:`) and within it the file `launch_vscode.bat`. 
@@ -33,6 +35,14 @@ Use this script to run Visual Studio Code. It will open a pre-made project (`cma
 - a `build` folder, created by Visual Studio Code, which you can ignore.
 
 Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+
+*If Visual Studio Code cannot find the compiler, you will need to add to the Windows PATH environment. To do so:*
+
+1. In the Windows search bar, type `settings` to open your **Windows Settings**.
+2. Search for **Edit environment variables for your account**.
+3. Choose the **Path** variable and then select **Edit**.
+4. Select **New** and add the Mingw-w64 destination folder path to the system path: `C:\msys64\mingw64\bin`.
+5. Select **OK** to save the updated PATH. You may need to re-open Visual Studio Code for it to take effect.
 
 ### Mac OS
 
