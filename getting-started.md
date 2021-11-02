@@ -76,7 +76,7 @@ The app should open automatically upon completion of the installation. It will o
 
 Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
-<iframe style="width:100%; height:800px;" src="https://www.youtube.com/embed/zu-PqYz2xCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/zu-PqYz2xCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Watch on YouTube for higher video quality*
 
