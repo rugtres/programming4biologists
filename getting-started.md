@@ -12,14 +12,14 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 #### Install Visual Studio Code
 ##### UWP (X-drive)
 
-1. Download the msys2 installer from https://www.msys2.org. 
+1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
 2. Run the installer. Set `X:\msys64` as installation folder.
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
 4. Run `setup_X.bat`. Accept all default choices and ignore warnings. Note that the command will take a long time on *uwp.rug.nl*.
 
 ##### Regular Windows (C-drive)
 
-1. Download the msys2 installer from https://www.msys2.org. 
+1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
 2. Run the installer. Keep the default installation folder (`C:\msys64`).
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
 4. Run `setup_C.bat`. Accept all default choices and ignore warnings. (you may need to run this as administrator to make it work)
