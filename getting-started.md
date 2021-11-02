@@ -52,7 +52,7 @@ Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The
 
 #### What next?
 
-Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
+Congratulations, you're all set! Head to our further instructions for [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
 
 ### Mac OS
 
@@ -75,7 +75,7 @@ Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project
 
 #### What next?
 
-Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
+Congratulations, you're all set! Head to our further instructions for [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
 
 ### Linux OS
 
@@ -107,6 +107,6 @@ Just click on **Trust**, and you're good to go!*
 
 #### What next?
 
-Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
+Congratulations, you're all set! Head to our further instructions for [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
 
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
