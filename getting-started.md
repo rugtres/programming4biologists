@@ -3,7 +3,7 @@
 
 Visual Studio Code (VSCode for short) is an advanced text editor that is cross-platform. 
 It works on Windows, Mac, or Linux OS.
-We will use VSCode to learn C++, so buckle up and let's get started!
+We will use VSCode to learn C++, so buckle up and let's get started! Follow the instructions below to install VSCode on your computer **before the start of the course**, be it Windows, Mac or Linux. Check out the videos for help!
 
 * Table of Contents
 {:toc}
@@ -13,18 +13,22 @@ We will use VSCode to learn C++, so buckle up and let's get started!
 ##### UWP (X-drive)
 
 1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
-2. Run the installer. Set `X:\msys64` as installation folder.
+2. Run the installer by double-clicking on it. **Set `X:\msys64` as installation folder**.
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
-4. Run `setup_X.bat`. Accept all default choices and ignore warnings. Note that the command will take a long time on *uwp.rug.nl*.
+4. Run `setup_X.bat`. 
+ 
+*If prompted during installation, accept all default choices with [Y]es or press **Enter** when appropriate. You can ignore warnings.*
+
+*Note that the command will take a long time on *uwp.rug.nl*.*
 
 ##### Regular Windows (C-drive)
 
 1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
-2. Run the installer. Keep the default installation folder (`C:\msys64`).
+2. Run the installer by double-clicking on it. Keep the default installation folder (`C:\msys64`).
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
-4. Run `setup_C.bat`. Accept all default choices and ignore warnings. (you may need to run this as administrator to make it work)
+4. Run `setup_C.bat` as administrator.
 
-*You may be prompted during installation. Say [Y]es or press **Enter** for all.*
+*If prompted during installation, accept all default choices with [Y]es or press **Enter** when appropriate. You can ignore warnings.*
 
 #### Launch Visual Studio Code
 
@@ -63,9 +67,7 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 
 <iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Watch on YouTube for higher video quality*
-
-Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code.
+Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code. Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
 
 ### Linux OS
 
