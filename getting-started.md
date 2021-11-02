@@ -49,7 +49,7 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 - `ms-vscode.cmake-tools` (CMake Tools)
 - `ms-vscode.cpptools` (C/C++)
 
-<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4&vq=hd720p60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Watch on YouTube for higher video quality*
 
