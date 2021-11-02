@@ -13,7 +13,8 @@
 
 ### Resources
 
-| Getting Started [![laptop](img/laptop.png)](https://rugtres.github.io/programming4biologists/getting-started) | Lecture Manual ![book](img/book.png) |
+| [Getting Started ![laptop](img/laptop.png)](https://rugtres.github.io/programming4biologists/getting-started) | 
+| [Lecture Manual ![book](img/book.png) |
 
 Stuck with C++? Forgot a command or how to use it? Find help online!
 
