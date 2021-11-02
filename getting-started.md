@@ -50,6 +50,10 @@ Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The
 4. Select **New** and add the Mingw-w64 destination folder path to the system path: `C:\msys64\mingw64\bin`.
 5. Select **OK** to save the updated PATH. You may need to re-open Visual Studio Code for it to take effect.
 
+#### What next?
+
+Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
+
 ### Mac OS
 
 #### Install Visual Studio Code
@@ -68,6 +72,10 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 <iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code. Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+
+#### What next?
+
+Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
 
 ### Linux OS
 
@@ -96,5 +104,9 @@ Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
+
+#### What next?
+
+Congratulations, you're all set! Head to our [further instructions](https://rugtres.github.io/programming4biologists/using_vs_code) to learn more on how to use VSCode and CMake for C++.
 
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
