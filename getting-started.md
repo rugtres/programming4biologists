@@ -49,7 +49,9 @@ Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Exten
 - `ms-vscode.cmake-tools` (CMake Tools)
 - `ms-vscode.cpptools` (C/C++)
 
-<iframe style="width:100%; height:800px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Watch on YouTube for higher video quality*
 
 Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code.
 
@@ -76,6 +78,7 @@ Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The
 
 <iframe style="width:100%; height:800px;" src="https://www.youtube.com/embed/zu-PqYz2xCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Watch on YouTube for higher video quality*
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
