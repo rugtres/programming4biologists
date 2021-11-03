@@ -63,3 +63,5 @@ An important tool in programming is to be able to break your program at a specif
 8. Paste it in the right position in your `launch.json` file. <img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/launch_json_macos.png" width = 500>
 9. Run the program in Debug mode by pressing F5 (there is no button in the program, only F5 works). 
 10. The program stops at line 6, which you marked with a breakpoint (the little red dot to the left of the line). Well done, you're now ready to debug!
+
+[![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
