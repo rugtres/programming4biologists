@@ -14,6 +14,7 @@
 ### Resources
 
 | [Getting Started ![laptop](img/laptop.png)](https://rugtres.github.io/programming4biologists/getting-started) | 
+| [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using-vs-code) | 
 | Lecture Manual ![book](img/book.png) |
 
 Stuck with C++? Forgot a command or how to use it? Find help online!
