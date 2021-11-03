@@ -1,7 +1,7 @@
 ## Using Visual Studio Code
 {:.no_toc}
 
-* Table of Contents
+1. Table of Contents
 {:toc}
 
 ### Required files
