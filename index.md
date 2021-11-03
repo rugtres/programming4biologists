@@ -17,12 +17,13 @@
 | [![laptop](img/laptop.png) Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using-vs-code) | 
 | ![book](img/book.png) Lecture Manual |
 
+
+### Support
+
 Stuck with C++? Forgot a command or how to use it? Find help online!
 
 - [cplusplus](https://www.cplusplus.com/)
 - [cppreference](https://en.cppreference.com/w/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/c%2B%2B)
 
-### Support
-
-Having trouble? Call an assistant during class or send us an email!
+If all else fails, call an assistant during class or send us an email!
