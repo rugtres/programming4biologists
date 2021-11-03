@@ -44,7 +44,7 @@ With our files downloaded and extensions installed, we can now use VSC to open o
 1. In VSC, choose **File, Open Folder...** and open your folder. 
 2. If asked, select **Yes, I trust these authors**. 
 3. VSC will now show a drop down menu where you are to select your **Kit**. A Kit is the underlying compiler used by VSC. You can pick your favourite here, or pick 'unspecified' if you don't know, both work fine. *If the kit selection menu disappeared (because you navigated back to this webpage for instance), you can make it reappear by pressing **CTRL+SHIFT+P** (**CMD+SHIFT+P** on macOs).* Your VSC will now look similar to this: <img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/vscode.png" width = 500>
-4. At the bottom of VSC, there are three buttons: Build, Debug and Run, identified by the associated pictograms: a gear icon ![gear](img/gear_icon.png), a turtle icon and a play icon. Press the play icon ![launch](img/launch.png) to execute your code, and it will display 'Hello CMake'! 
+4. At the bottom of VSC, there are three buttons: Build![gear](img/gear_icon.png), Debug ![bug](img/debug_icon.png) and Run ![launch](img/launch.png). Press the play icon ![launch](img/launch.png) to execute your code, and it will display 'Hello CMake'! 
 5. Congratulations, you just compiled, built and ran your C++ program!
 
 *If the buttons are not available, this indicates that you are missing the CMake Tools extension. Please see the section above to install this.*
