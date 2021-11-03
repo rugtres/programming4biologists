@@ -25,5 +25,7 @@ Stuck with C++? Forgot a command or how to use it? Find help online!
 - [cplusplus](https://www.cplusplus.com/)
 - [cppreference](https://en.cppreference.com/w/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/c%2B%2B)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [CMake Tutorial](https://cmake.org/cmake/help/v3.22/guide/tutorial/index.html)
 
 If all else fails, call an assistant during class or send us an email!
