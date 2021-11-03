@@ -5,7 +5,7 @@ Visual Studio Code (VSCode for short) is an advanced text editor that is cross-p
 It works on Windows, Mac, or Linux OS.
 We will use VSCode to learn C++, so buckle up and let's get started! Follow the instructions below to install VSCode on your computer **before the start of the course**, be it Windows, Mac or Linux. Check out the videos for help!
 
-Done installing? Congratulations, you're all set! Head to our further instructions for [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using-vs-code) to learn more on how to use VSCode and CMake for C++.
+*Done installing?* Congratulations, you're all set! Head to our further instructions for [Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using-vs-code) to learn more on how to use VSCode and CMake for C++.
 
 * Table of Contents
 {:toc}
@@ -15,7 +15,7 @@ Done installing? Congratulations, you're all set! Head to our further instructio
 ##### UWP (X-drive)
 
 1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
-2. Run the installer by double-clicking on it. **Set `X:\msys64` as installation folder**.
+2. Run the installer by double-clicking on it. Set `X:\msys64` as installation folder.
 3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
 4. Run `setup_X.bat`. 
  
