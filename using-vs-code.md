@@ -13,11 +13,11 @@ The easiest way to set up a correct folder is by downloading these files here:
 - [`CMakeLists.txt`](https://github.com/HHildenbrandt/uwp_vscode_setup/blob/master/cmake-project/CMakeLists.txt)
 - [`main.cpp`](https://github.com/HHildenbrandt/uwp_vscode_setup/blob/master/cmake-project/main.cpp)
 
-**Normally, if you followed all the instructions for [Getting Started](https://rugtres.github.io/programming4biologists/getting-started), you should already have these two files in a folder named `cmake-project`.** 
+*Normally, if you followed all the instructions for [Getting Started](https://rugtres.github.io/programming4biologists/getting-started), you should already have these two files in a folder named `cmake-project`.*
 
 In case you do not already have these files:
 
-1. Download them by right-clicking on them and choosing 'Save As'. 
+1. Download them by right-clicking on them and choosing **Save As**. 
 2. Place them in a new empty folder in which you want to work. 
 
 Alternatively, you can: 
