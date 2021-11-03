@@ -1,4 +1,8 @@
 ## Using Visual Studio Code
+{:.no_toc}
+
+* Table of Contents
+{:toc}
 
 ### Required files
 
