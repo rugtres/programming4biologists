@@ -4,12 +4,24 @@
 
 | Week               | Modules (BSc) | Modules (MSc) | 
 |--------------------|---------------|---------------|
-| 46 (15/11 - 19/11)  <td colspan=2>01 - 05 |
-| 47 (22/11 - 26/11)  <td colspan=2>06 - 10; 14 |
+| 46 (15/11 - 19/11)  <td colspan=2>01 - 05
+| 47 (22/11 - 26/11)  <td colspan=2>06 - 10; 14
 | 48 (29/11 - 03/12) | 15 - 22 |
 | 49 (06/12 - 10/12) | Project | 
 | 50 (13/12 - 17/12) | Project |
 | 51 (20/12 - 24/12) | Project |
+  
+<table>
+  <tr>
+    <td>Week</td>
+    <td>Modules (BSc)</td>
+    <td>Modules (MSc)</td>
+  </tr>
+  <tr>
+    <td>46 (15/11 - 19/11)</td>
+    <td colspan="2">01 - 05</td>
+  </tr>
+</table>
 
 ### Resources
 
