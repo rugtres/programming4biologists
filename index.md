@@ -1,6 +1,6 @@
 ## [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/) Home
 
-### Schedule
+### Schedule 2021
 
 | Week               | Modules (BSc) | Modules (MSc) | 
 |--------------------|---------------|---------------|
@@ -20,6 +20,10 @@
   <tr>
     <td>46 (15/11 - 19/11)</td>
     <td colspan="2" style="text-align:center">01 - 05</td>
+  </tr>
+  <tr>
+    <td>47 (22/11 - 26/11)</td>
+    <td colspan="2" style="text-align:center">06 - 10; 14</td>
   </tr>
 </table>
 
