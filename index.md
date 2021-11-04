@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>46 (15/11 - 19/11)</td>
-    <td colspan="2">01 - 05</td>
+    <td colspan="2" style="text-align:center">01 - 05</td>
   </tr>
 </table>
 
