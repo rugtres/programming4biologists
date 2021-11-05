@@ -116,9 +116,6 @@ The programme below is for **Master's students** who take the three-week project
     <td>10/12</td>
     <td>Coding, testing and debugging</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <th>Week 50</th>
     <th>Tasks</th>
@@ -143,9 +140,6 @@ The programme below is for **Master's students** who take the three-week project
     <td>17/12</td>
     <td>Collect simulation results</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <th>Week 51</th>
     <th>Tasks</th>
