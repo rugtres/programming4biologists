@@ -2,11 +2,11 @@
 
 ### Schedule 
 
-| **Daily schedule:** 9:00-12:00, 13:00-17:00 |
+| **Hours:** 9:00-12:00, 13:00-17:00 |
 | **Location:** EA 5159.0062 | 
 | **Online open office:** 13:00-15:00 on Blackboard Collaborate |
 
-Below is the summary schedule for the 2021 course. For the more detailed schedule, [click here](https://rugtres.github.io/programming4biologists/schedule).
+[Detailed schedule 2021](https://rugtres.github.io/programming4biologists/schedule)
 
 <table>
   <tr>
