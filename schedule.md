@@ -1,5 +1,10 @@
 ## Detailed Schedule
+{:no-toc}
 
+* Table of Contents
+{:toc}
+
+### Course
 At the end of each week, on Fridays, you will put to practice what you have learned with a <b>programming assignment</b>.
 
 <table>
@@ -89,6 +94,8 @@ At the end of each week, on Fridays, you will put to practice what you have lear
     <td><b>Microtubule polymerisation</b></td>
   </tr>
 </table>
+
+### Project
 
 <i>The programme below is for <b>Master's students</b> who take the three-week project only.</i>
 
