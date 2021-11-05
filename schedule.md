@@ -1,5 +1,5 @@
 ## Schedule
-{:no_toc}
+{:.no_toc}
 
 * Table of Contents
 {:toc}
