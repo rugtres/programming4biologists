@@ -85,7 +85,7 @@ At the end of each week, on Fridays, you will put to practice what you have lear
   </tr>
   <tr>
     <td>03/12</td>
-    <td>Mini-project: <b>Submission deadline!</b></td>
+    <td><b>Deadline: Submit mini-project!</b></td>
     <td><b>Microtubule polymerisation</b></td>
   </tr>
 </table>
