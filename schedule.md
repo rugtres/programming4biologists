@@ -168,6 +168,6 @@ The programme below is for **Master's students** who take the three-week project
   </tr>
   <tr>
     <td>23/12</td>
-    <td><b>Deadline report submission!</b></td>
+    <td><b>Deadline: Submit report!</b></td>
   </tr>
 </table>
