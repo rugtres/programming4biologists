@@ -21,7 +21,7 @@ For the more detailed schedule, [click here](https://rugtres.github.io/programmi
   <tr>
     <td>48 (29/11 - 03/12)</td>
     <td>15 / 16 / 17</td>
-    <td>15-17</td>
+    <td>15 - 17</td>
   </tr>
   <tr>
     <td>49 (06/12 - 10/12)</td>
