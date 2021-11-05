@@ -25,17 +25,17 @@ For the more detailed schedule, [click here](https://rugtres.github.io/programmi
   </tr>
   <tr>
     <td>49 (06/12 - 10/12)</td>
-    <td></td>
+    <td>-</td>
     <td>Project</td>
   </tr>
   <tr>
     <td>50 (13/12 - 17/12)</td>
-    <td></td>
+    <td>-</td>
     <td>Project</td>
   </tr>
   <tr>
     <td>51 (20/12 - 24/12)</td>
-    <td></td>
+    <td>-</td>
     <td>Project</td>
   </tr>
 </table>
