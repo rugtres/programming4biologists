@@ -19,7 +19,7 @@
     <td colspan="2" style="text-align:center">If..., Else... Or What!? (04)</td>
   </tr>
   <tr>
-    <td>18/11)</td>
+    <td>18/11</td>
     <td colspan="2" style="text-align:center">Doing stuff many times (05)</td>
   </tr>
   <tr>
