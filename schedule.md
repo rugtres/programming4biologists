@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>20/11</td>
-    <td colspan="2" style="text-align:center">Home-made objects <i>(10)<i></td>
+    <td colspan="2" style="text-align:center">Home-made objects <i>(10)</i></td>
   </tr>
   <tr>
     <td>21/11</td>
-    <td colspan="2" style="text-align:center">Designing algorithms <i>(14)<i></td>
+    <td colspan="2" style="text-align:center">Designing algorithms <i>(14)</i></td>
   </tr>
   <tr>
     <td>22/11</td>
