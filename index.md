@@ -5,35 +5,35 @@
 <table>
   <tr>
     <th>Week</th>
-    <th>Modules (BSc)</th>
-    <th>Modules (MSc)</th>
+    <th>Bachelor's</th>
+    <th>Master's</th>
   </tr>
   <tr>
     <td>46 (15/11 - 19/11)</td>
-    <td colspan="2" style="text-align:center">1 - 5</td>
+    <td colspan="2" style="text-align:center">Modules 1 - 5</td>
   </tr>
   <tr>
     <td>47 (22/11 - 26/11)</td>
-    <td colspan="2" style="text-align:center">6 - 10; 14</td>
+    <td colspan="2" style="text-align:center">Modules 6 - 10; 14</td>
   </tr>
   <tr>
     <td>48 (29/11 - 03/12)</td>
-    <td>15 / 16 / 17</td>
-    <td>15 - 17</td>
+    <td>Module 15 / 16 / 17</td>
+    <td>Modules 15 - 17</td>
   </tr>
   <tr>
     <td>49 (06/12 - 10/12)</td>
-    <td>-</td>
+    <td>x</td>
     <td>Project</td>
   </tr>
   <tr>
     <td>50 (13/12 - 17/12)</td>
-    <td>-</td>
+    <td>x</td>
     <td>Project</td>
   </tr>
   <tr>
     <td>51 (20/12 - 24/12)</td>
-    <td>-</td>
+    <td>x</td>
     <td>Project</td>
   </tr>
 </table>
