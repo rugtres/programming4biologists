@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td>Week 46</td>
-    <td>Modules (BSc)</td>
-    <td>Modules (MSc)</td>
+    <th>Week 46</th>
+    <th>Modules (BSc)</th>
+    <th>Modules (MSc)</th>
   </tr>
   <tr>
     <td>15/11</td>
