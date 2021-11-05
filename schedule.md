@@ -8,19 +8,19 @@
   </tr>
   <tr>
     <td>15/11</td>
-    <td colspan="2" style="text-align:center">Getting started (01), Numeric variables and data types (02)</td>
+    <td colspan="2" style="text-align:center">Getting started <i>(1)</i>, Numeric variables and data types <i>(2)</i></td>
   </tr>
   <tr>
     <td>16/11</td>
-    <td colspan="2" style="text-align:center">Numeric variables and data types (02, continued), Elementary calculations (03)</td>
+    <td colspan="2" style="text-align:center">Numeric variables and data types <i>(2, continued)</i>, Elementary calculations <i>(3)</i></td>
   </tr>
   <tr>
     <td>17/11</td>
-    <td colspan="2" style="text-align:center">If..., Else... Or What!? (04)</td>
+    <td colspan="2" style="text-align:center">If..., Else... Or What!? <i>(4)</i></td>
   </tr>
   <tr>
     <td>18/11</td>
-    <td colspan="2" style="text-align:center">Doing stuff many times (05)</td>
+    <td colspan="2" style="text-align:center">Doing stuff many times <i>(5)</i></td>
   </tr>
   <tr>
     <td>19/11</td>
@@ -36,19 +36,19 @@
   </tr>
   <tr>
     <td>18/11</td>
-    <td colspan="2" style="text-align:center">Functions (06), Matters of Style (07)</td>
+    <td colspan="2" style="text-align:center">Functions <i>(6)</i>, Matters of Style <i>(7)</i></td>
   </tr>
   <tr>
     <td>19/11</td>
-    <td colspan="2" style="text-align:center">Working with text (08), "Hello, disk drive!" (09)</td>
+    <td colspan="2" style="text-align:center">Working with text <i>(8)</i>, "Hello, disk drive!" <i>(9)</i></td>
   </tr>
   <tr>
     <td>20/11</td>
-    <td colspan="2" style="text-align:center">Home-made objects (10)</td>
+    <td colspan="2" style="text-align:center">Home-made objects <i>(10)<i></td>
   </tr>
   <tr>
     <td>21/11</td>
-    <td colspan="2" style="text-align:center">Designing algorithms (14)</td>
+    <td colspan="2" style="text-align:center">Designing algorithms <i>(14)<i></td>
   </tr>
   <tr>
     <td>22/11</td>
