@@ -12,11 +12,11 @@ For the more detailed schedule, [click here](https://rugtres.github.io/programmi
   </tr>
   <tr>
     <td>46 (15/11 - 19/11)</td>
-    <td colspan="2" style="text-align:center">01 - 05</td>
+    <td colspan="2" style="text-align:center">1 - 5</td>
   </tr>
   <tr>
     <td>47 (22/11 - 26/11)</td>
-    <td colspan="2" style="text-align:center">06 - 10; 14</td>
+    <td colspan="2" style="text-align:center">6 - 10; 14</td>
   </tr>
   <tr>
     <td>48 (29/11 - 03/12)</td>
