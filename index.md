@@ -39,7 +39,9 @@
 </table>
 
 **Time:** 9:00-12:00, 13:00-17:00
+
 **Location:** EA 5159.0062 
+
 **Online open office:** 13:00-15:00 on Blackboard Collaborate
 
 ### Resources
