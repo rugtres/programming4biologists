@@ -2,12 +2,6 @@
 
 ### Schedule 
 
-| **Hours:** 9:00-12:00, 13:00-17:00 |
-| **Location:** EA 5159.0062 | 
-| **Online open office:** 13:00-15:00 on Blackboard Collaborate |
-
-[Detailed schedule 2021](https://rugtres.github.io/programming4biologists/schedule)
-
 <table>
   <tr>
     <th>Week</th>
@@ -43,6 +37,12 @@
     <td>Project</td>
   </tr>
 </table>
+
+[-> Detailed schedule 2021](https://rugtres.github.io/programming4biologists/schedule)
+
+| **Hours:** 9:00-12:00, 13:00-17:00 |
+| **Location:** EA 5159.0062 | 
+| **Online open office:** 13:00-15:00 on Blackboard Collaborate |
 
 ### Resources
 
