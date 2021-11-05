@@ -83,8 +83,91 @@
     <td>Self-study</td>
   </tr>
   <tr>
-    <td>02/12</td>
+    <td>03/12</td>
     <td>Mini-project: <b>Submission deadline!</b></td>
     <td><b>Microtubule polymerisation</b></td>
+  </tr>
+</table>
+
+The programme below is for **Master's students** who take the three-week project only.
+
+<table>
+  <tr>
+    <th>Week 49</th>
+    <th>Tasks</th>
+  </tr>
+  <tr>
+    <td>06/12</td>
+    <td>Introduction to topics and supervisors</td>
+  </tr>
+  <tr>
+    <td>07/12</td>
+    <td>Literature study, Project plan, Report outline</td>
+  </tr>
+  <tr>
+    <td>08/12</td>
+    <td>Coding, testing and debugging</td>
+  </tr>
+  <tr>
+    <td>09/12</td>
+    <td>Coding, testing and debugging</td>
+  </tr>
+  <tr>
+    <td>10/12</td>
+    <td>Coding, testing and debugging</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Week 50</th>
+    <th>Tasks</th>
+  </tr>
+  <tr>
+    <td>12/12</td>
+    <td>Finalise and annotate program code</td>
+  </tr>
+  <tr>
+    <td>13/12</td>
+    <td>Peregrine workshop (HPC)</td>
+  </tr>
+  <tr>
+    <td>14/12</td>
+    <td>Collect simulation results</td>
+  </tr>
+  <tr>
+    <td>15/12</td>
+    <td>Collect simulation results</td>
+  </tr>
+  <tr>
+    <td>16/12</td>
+    <td>Collect simulation results</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Week 51</th>
+    <th>Tasks</th>
+  </tr>
+  <tr>
+    <td>19/12</td>
+    <td>Present project, evaluate course</td>
+  </tr>
+  <tr>
+    <td>20/12</td>
+    <td>Collect simulation results</td>
+  </tr>
+  <tr>
+    <td>21/12</td>
+    <td>Write report</td>
+  </tr>
+  <tr>
+    <td>22/12</td>
+    <td>Write report</td>
+  </tr>
+  <tr>
+    <td>23/12</td>
+    <td><b>Deadline report submission!</b></td>
   </tr>
 </table>
