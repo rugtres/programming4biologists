@@ -35,23 +35,36 @@
     <th>Modules (MSc)</th>
   </tr>
   <tr>
-    <td>18/11</td>
+    <td>22/11</td>
     <td colspan="2" style="text-align:center">Functions <i>(6)</i>, Matters of Style <i>(7)</i></td>
   </tr>
   <tr>
-    <td>19/11</td>
+    <td>23/11</td>
     <td colspan="2" style="text-align:center">Working with text <i>(8)</i>, "Hello, disk drive!" <i>(9)</i></td>
   </tr>
   <tr>
-    <td>20/11</td>
+    <td>24/11</td>
     <td colspan="2" style="text-align:center">Home-made objects <i>(10)</i></td>
   </tr>
   <tr>
-    <td>21/11</td>
+    <td>25/11</td>
     <td colspan="2" style="text-align:center">Designing algorithms <i>(14)</i></td>
   </tr>
   <tr>
-    <td>22/11</td>
+    <td>26/11</td>
     <td colspan="2" style="text-align:center"><b>Modelling arterial trees</b></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Week 48</th>
+    <th>Modules (BSc)<th>
+    <th>Modules (MSc)<th>
+  </tr>
+  <tr>
+    <td>29/11</td>
+    <td>Select your mini-project! <i>(15, 16 or 17)</i><td>
+    <td>Numerical integration of ODEs <i>(15)</i><td>
   </tr>
 </table>
