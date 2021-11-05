@@ -1,7 +1,9 @@
 ## [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/) Home
 
 ### Schedule 2021
-  
+
+For the more detailed schedule, [click here](https://rugtres.github.io/programming4biologists/schedule).
+
 <table>
   <tr>
     <td>Week</td>
