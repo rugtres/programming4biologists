@@ -167,4 +167,4 @@ At the end of each week, on Fridays, you will put to practice what you have lear
   </tr>
 </table>
 
-[![home](img/home.png)](https://rugtres.github.io/programming4biologists/)
+[![home](img/home.jpg)](https://rugtres.github.io/programming4biologists/)
