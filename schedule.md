@@ -2,9 +2,14 @@
 
 <table>
   <tr>
-    <th>Week 46</th>
+    <th></th>
     <th>Modules (BSc)</th>
     <th>Modules (MSc)</th>
+  </tr>
+  <tr>
+    <th>Week 46</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>15/11</td>
@@ -28,8 +33,8 @@
   </tr>
   <tr>
     <th>Week 47</th>
-    <th>Modules (BSc)</th>
-    <th>Modules (MSc)</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>22/11</td>
@@ -53,8 +58,8 @@
   </tr>
   <tr>
     <th>Week 48</th>
-    <th>Modules (BSc)</th>
-    <th>Modules (MSc)</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>29/11</td>
@@ -112,7 +117,7 @@ The programme below is for **Master's students** who take the three-week project
   </tr>
   <tr>
     <th>Week 50</th>
-    <th>Tasks</th>
+    <th></th>
   </tr>
   <tr>
     <td>13/12</td>
@@ -136,7 +141,7 @@ The programme below is for **Master's students** who take the three-week project
   </tr>
   <tr>
     <th>Week 51</th>
-    <th>Tasks</th>
+    <th></th>
   </tr>
   <tr>
     <td>20/12</td>
