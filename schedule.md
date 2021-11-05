@@ -124,16 +124,12 @@ The programme below is for **Master's students** who take the three-week project
     <th>Tasks</th>
   </tr>
   <tr>
-    <td>12/12</td>
+    <td>13/12</td>
     <td>Finalise and annotate program code</td>
   </tr>
   <tr>
-    <td>13/12</td>
-    <td>Peregrine workshop (HPC)</td>
-  </tr>
-  <tr>
     <td>14/12</td>
-    <td>Collect simulation results</td>
+    <td>Peregrine workshop (HPC)</td>
   </tr>
   <tr>
     <td>15/12</td>
@@ -141,6 +137,10 @@ The programme below is for **Master's students** who take the three-week project
   </tr>
   <tr>
     <td>16/12</td>
+    <td>Collect simulation results</td>
+  </tr>
+  <tr>
+    <td>17/12</td>
     <td>Collect simulation results</td>
   </tr>
 </table>
@@ -151,16 +151,12 @@ The programme below is for **Master's students** who take the three-week project
     <th>Tasks</th>
   </tr>
   <tr>
-    <td>19/12</td>
+    <td>20/12</td>
     <td>Present project, evaluate course</td>
   </tr>
   <tr>
-    <td>20/12</td>
-    <td>Collect simulation results</td>
-  </tr>
-  <tr>
     <td>21/12</td>
-    <td>Write report</td>
+    <td>Collect simulation results</td>
   </tr>
   <tr>
     <td>22/12</td>
@@ -168,6 +164,10 @@ The programme below is for **Master's students** who take the three-week project
   </tr>
   <tr>
     <td>23/12</td>
+    <td>Write report</td>
+  </tr>
+  <tr>
+    <td>24/12</td>
     <td><b>Deadline: Submit report!</b></td>
   </tr>
 </table>
