@@ -166,3 +166,5 @@ At the end of each week, on Fridays, you will put to practice what you have lear
     <td><b>Deadline: Submit report!</b></td>
   </tr>
 </table>
+
+[![home](img/home.png)](https://rugtres.github.io/programming4biologists/)
