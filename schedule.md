@@ -1,4 +1,4 @@
-## Detailed Schedule
+## Schedule
 {:no-toc}
 
 * Table of Contents
