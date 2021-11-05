@@ -1,5 +1,7 @@
 ## Extended Schedule 2021
 
+At the end of each week, on Fridays, you will put to practice what you have learned with a <b>programming assignment</b>.
+
 <table>
   <tr>
     <th></th>
