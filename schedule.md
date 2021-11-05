@@ -67,4 +67,24 @@
     <td>Select your mini-project! <i>(15, 16 or 17)</i></td>
     <td>Numerical integration of ODEs <i>(15)</i></td>
   </tr>
+  <tr>
+    <td>30/11</td>
+    <td>Mini-project <i>(15, 16 or 17)</i></td>
+    <td>Stochastic models <i>(16)</i></td>
+  </tr>
+  <tr>
+    <td>01/12</td>
+    <td>Mini-project <i>(15, 16 or 17)</i></td>
+    <td>Individual-based simulation <i>(17)</i></td>
+  </tr>
+  <tr>
+    <td>02/12</td>
+    <td>Mini-project <i>(15, 16 or 17)</i></td>
+    <td>Self-study</td>
+  </tr>
+  <tr>
+    <td>02/12</td>
+    <td>Mini-project <b>Submission deadline!</b></td>
+    <td><b>Microtubule polymerisation</b></td>
+  </tr>
 </table>
