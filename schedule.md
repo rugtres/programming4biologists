@@ -76,7 +76,7 @@ At the end of each week, on Fridays, you will put to practice what you have lear
   <tr>
     <td>01/12</td>
     <td>Mini-project <i>(15, 16 or 17)</i></td>
-    <td>Individual-based simulation <i>(17)</i></td>
+    <td>Individual-based simulation <i>(17), FSE career day</i></td>
   </tr>
   <tr>
     <td>02/12</td>
