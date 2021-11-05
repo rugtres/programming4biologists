@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td>02/12</td>
-    <td>Mini-project <b>Submission deadline!</b></td>
+    <td>Mini-project: <b>Submission deadline!</b></td>
     <td><b>Microtubule polymerisation</b></td>
   </tr>
 </table>
