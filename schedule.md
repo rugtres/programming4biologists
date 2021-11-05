@@ -26,9 +26,6 @@
     <td>19/11</td>
     <td colspan="2" style="text-align:center"><b>Patterns on sea shells</b></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <th>Week 47</th>
     <th>Modules (BSc)</th>
@@ -54,9 +51,6 @@
     <td>26/11</td>
     <td colspan="2" style="text-align:center"><b>Modelling arterial trees</b></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <th>Week 48</th>
     <th>Modules (BSc)</th>
