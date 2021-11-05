@@ -59,12 +59,12 @@
 <table>
   <tr>
     <th>Week 48</th>
-    <th>Modules (BSc)<th>
-    <th>Modules (MSc)<th>
+    <th>Modules (BSc)</th>
+    <th>Modules (MSc)</th>
   </tr>
   <tr>
     <td>29/11</td>
-    <td>Select your mini-project! <i>(15, 16 or 17)</i><td>
-    <td>Numerical integration of ODEs <i>(15)</i><td>
+    <td>Select your mini-project! <i>(15, 16 or 17)</i></td>
+    <td>Numerical integration of ODEs <i>(15)</i></td>
   </tr>
 </table>
