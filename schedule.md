@@ -90,7 +90,7 @@ At the end of each week, on Fridays, you will put to practice what you have lear
   </tr>
 </table>
 
-The programme below is for **Master's students** who take the three-week project only.
+<i>The programme below is for <b>Master's students</b> who take the three-week project only.</i>
 
 <table>
   <tr>
