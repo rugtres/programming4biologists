@@ -6,9 +6,9 @@ For the more detailed schedule, [click here](https://rugtres.github.io/programmi
 
 <table>
   <tr>
-    <td>Week</td>
-    <td>Modules (BSc)</td>
-    <td>Modules (MSc)</td>
+    <th>Week</th>
+    <th>Modules (BSc)</th>
+    <th>Modules (MSc)</th>
   </tr>
   <tr>
     <td>46 (15/11 - 19/11)</td>
