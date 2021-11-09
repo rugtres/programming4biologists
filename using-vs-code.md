@@ -66,8 +66,11 @@ An important tool in programming is to be able to break your program at a specif
 
 #### Note for Ubuntu users
 
-You might encounter some errors while setting up the debugger.
+You might encounter some errors while setting up the debugger. To fix them, follow the steps below.
 
+##### Unable to start debugging
+
+If this error pops up in Visual Studio Code:
 ```
 Unable to start debugging : The value of miDebuggerPath is invalid
 ```
@@ -78,5 +81,31 @@ You want to use `gdb` as your debugger. Make sure you have it installed, and fin
 "MIMode": "gdb",
 "miDebuggerPath": "/usr/bin/gdb"
 ```
+#####  Failed to set controlling terminal
+
+If you get this error in Visual Studio Code's debugging terminal:
+```
+warning: GDB: Failed to set controlling terminal: Operation not permitted
+```
+
+This is a common bug with gdb when it is not up-to-date. You will need to manually install the most updated stable version of gdb:
+
+1. Go to the [gdb download portal](https://ftp.gnu.org/gnu/gdb/?C=N;O=D).
+2. Right-click on the most recent .xz file and copy the link. As of November 9, 2021, this would be `https://ftp.gnu.org/gnu/gdb/gdb-11.1.tar.xz`
+3. Open your terminal, type `wget ` and paste the link to the target file (example, `wget https://ftp.gnu.org/gnu/gdb/gdb-11.1.tar.xz`). Enter.
+4. Unzip the file with the `tar -xf` command (example, `tar -xf gdb-7.8.tar.xz`).
+5. Move to the new directory `cd gdb-7.8/`.
+6. `./configure`.
+7. `make`. If at this stage, you get the following error: `configure: error: GMP is missing or unusable`, fix it as per the instructions below, then try again and resume to step 8.
+8. Copy the program to your local bin `sudo cp gdb/gdb /usr/local/bin/gdb`.
+9. Verify that gdb is correctly updated with `gdb --version` should show the correct version number (`11.1` in this example).
+
+##### GMP is missing or unusable
+
+If you get this error while installing gdb with `make`:
+
+1. `sudo apt install libgmp-dev` 
+2. Run `make` again. It should complete without error this time.
+3. Go back to step 8 above and complete the instructions.
 
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
