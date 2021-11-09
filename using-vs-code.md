@@ -64,4 +64,19 @@ An important tool in programming is to be able to break your program at a specif
 9. Run the program in Debug mode by pressing F5 (there is no button in the program, only F5 works). 
 10. The program stops at line 6, which you marked with a breakpoint (the little red dot to the left of the line). Well done, you're now ready to debug!
 
+#### Note for Ubuntu users
+
+You might encounter some errors while setting up the debugger.
+
+```
+Unable to start debugging : The value of miDebuggerPath is invalid
+```
+
+You want to use `gdb` as your debugger. Make sure you have it installed, and find its path with the command `which -a gdb` in the terminal window. Copy the local path (probably something like `/usr/bin/gdb`) into your `launch.json` file, and update the relevant values like so:
+
+```json
+"MIMode": "gdb",
+"miDebuggerPath": "/usr/bin/gdb"
+```
+
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
