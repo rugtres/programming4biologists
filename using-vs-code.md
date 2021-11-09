@@ -60,7 +60,8 @@ An important tool in programming is to be able to break your program at a specif
 5. Visual Studio Code will give an error, and ask you to create a `launch.json` file. Click on **create launch.json** file to do so. This will open a new `launch.json` file in VSC. 
 6. Change the entry at `program`, to make sure that it points towards your executable. The location of that executable may vary depending on your operating system. The best way to find out is to press the 'play' button. This will show you the location of your executable: <img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/program_link.png" width = 500>
 7. Copy that link (in this case, */Users/janzen/vscode_example/build/cmake-project*, where `cmake-project` is our executable. On Windows, you can expect something like *C:\\vscode_example\\build\\Debug\\cmake-project.exe*). 
-8. Paste it in the right position in your `launch.json` file. <img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/launch_json_macos.png" width = 500>
+8. Paste it in the right position in your `launch.json` file. 
+<img src="https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/img/launch_json_macos.png" width = 500>
 9. Run the program in Debug mode by pressing F5 (there is no button in the program, only F5 works). 
 10. The program stops at line 6, which you marked with a breakpoint (the little red dot to the left of the line). Well done, you're now ready to debug!
 
@@ -98,7 +99,7 @@ This is a common bug with gdb when it is not up-to-date. You will need to manual
 6. `./configure`.
 7. `make`. If at this stage, you get the following error: `configure: error: GMP is missing or unusable`, fix it as per the instructions below, then try again and resume to step 8.
 8. Copy the program to your local bin `sudo cp gdb/gdb /usr/local/bin/gdb`.
-9. Verify that gdb is correctly updated with `gdb --version` should show the correct version number (`11.1` in this example).
+9. Verify that gdb is correctly updated: `gdb --version` should show the correct version number (`11.1` in this example).
 
 ##### GMP is missing or unusable
 
