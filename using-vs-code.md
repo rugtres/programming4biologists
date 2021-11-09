@@ -93,8 +93,8 @@ This is a common bug with gdb when it is not up-to-date. You will need to manual
 1. Go to the [gdb download portal](https://ftp.gnu.org/gnu/gdb/?C=N;O=D).
 2. Right-click on the most recent .xz file and copy the link. As of November 9, 2021, this would be `https://ftp.gnu.org/gnu/gdb/gdb-11.1.tar.xz`
 3. Open your terminal, type `wget ` and paste the link to the target file (example, `wget https://ftp.gnu.org/gnu/gdb/gdb-11.1.tar.xz`). Enter.
-4. Unzip the file with the `tar -xf` command (example, `tar -xf gdb-7.8.tar.xz`).
-5. Move to the new directory `cd gdb-7.8/`.
+4. Unzip the file with the `tar -xf` command (example, `tar -xf gdb-11.1.tar.xz`).
+5. Move to the new directory `cd gdb-11.1/`.
 6. `./configure`.
 7. `make`. If at this stage, you get the following error: `configure: error: GMP is missing or unusable`, fix it as per the instructions below, then try again and resume to step 8.
 8. Copy the program to your local bin `sudo cp gdb/gdb /usr/local/bin/gdb`.
