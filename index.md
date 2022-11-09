@@ -9,30 +9,30 @@
     <th>Master's</th>
   </tr>
   <tr>
-    <td>46 (15/11 - 19/11)</td>
+    <td>46 (14/11 - 18/11)</td>
     <td colspan="2" style="text-align:center">Modules 1 - 5</td>
   </tr>
   <tr>
-    <td>47 (22/11 - 26/11)</td>
+    <td>47 (21/11 - 25/11)</td>
     <td colspan="2" style="text-align:center">Modules 6 - 10; 14</td>
   </tr>
   <tr>
-    <td>48 (29/11 - 03/12)</td>
+    <td>48 (28/11 - 02/12)</td>
     <td>Module 15 / 16 / 17</td>
     <td>Modules 15 - 17</td>
   </tr>
   <tr>
-    <td>49 (06/12 - 10/12)</td>
+    <td>49 (05/12 - 09/12)</td>
     <td>x</td>
     <td>Project</td>
   </tr>
   <tr>
-    <td>50 (13/12 - 17/12)</td>
+    <td>50 (12/12 - 16/12)</td>
     <td>x</td>
     <td>Project</td>
   </tr>
   <tr>
-    <td>51 (20/12 - 24/12)</td>
+    <td>51 (19/12 - 23/12)</td>
     <td>x</td>
     <td>Project</td>
   </tr>
@@ -40,7 +40,6 @@
 
 | **Time** | 9:00-12:00, 13:00-17:00 |
 | **Location** | EA 5159.0062 | 
-| **Online open office** | 13:00-15:00 on Blackboard Collaborate | 
 
 ### Resources
 
