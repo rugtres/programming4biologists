@@ -11,9 +11,11 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 {:toc}
 
 ### Windows OS
-
+#### Install Visual Studio Code
 * Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `portable_mingw_vscode.7z`. If you do not have 7-zip installed in your computer, either install it from the [website](https://www.7-zip.org/download.html) or download the portable version `7z2201-x64.zip` from the same shared folder. 
 * Extract the `portable_mingw_vscode.7z` archive with 7-zip to your desktop. If you are using the portable version of 7-zip, first extract the 7-zip  archive to a folder, open `7zFM.exe` and use it to extract `portable_mingw_vscode.7z` to your desktop.
+
+#### Launch Visual Studio Code
 * Navigate to `portable_mingw_vscode/vscode/` and open `Code.exe`. 
 
 ![run vscode](img/run_vscode.png)
@@ -28,7 +30,7 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 
 ![choose compiler](img/choose_compiler.png)
 
-* Click on `main.cpp` and press the Play button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
+* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
 * You have now correctly installed VS Code and the necessary tools for the course.
 
 ### Mac OS
@@ -54,26 +56,29 @@ Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project
 
 #### Install Visual Studio Code
 
-1. Download [this ![zip](img/zip.png) zip](https://github.com/ClaireGuerin/bash-install-vscode/archive/refs/heads/main.zip).
-2. Extract the folder with your archive manager or in command line with `unzip path/to/folder`.
-3. Open your terminal and navigate to where the folder is with `cd path/to/unzipped/folder`.
-4. Make sure the file `install_vscode.sh` is executable with `ls -l`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x install_vscode.sh`. 
-5. Execute the bash file with `source install_vscode.sh`. If you are not in root, you will be prompted for your password.
+* Download the shared [folder](https://drive.google.com/file/d/14Q2Lqg0fC9NeV0WBNo_ENOjts9gnx1y4/view?usp=share_link) `bootstrap-linux-x86_64.zip`.
+* Extract the folder with your archive manager or in command line with `unzip path/to/folder`.
+* Open your terminal and navigate to where the folder is with `cd path/to/unzipped/folder`.
+* Run either of the 3 `bootstrap_*.sh` files depending if you're running Linux on Windows via [WSL](https://learn.microsoft.com/en-us/windows/wsl/), or if you use `apt` or `dnf` as your package managers. Make sure the file you run is executable with `ls -l`. The marker `x` before the file name should indicate execute mode. If not, make the file executable with `chmod +x bootstrap_*.sh` (replace `*` according to your use case).  You will be prompted for your password in the process.
 
-*These instructions are for Linux Distributions with `apt`, such as Ubuntu or Debian for instance. You will need admin rights to install VSCode.*
+*These instructions are for Linux Distributions with `apt`, such as Ubuntu or Debian, or `dnf`, such as Fedora. You will need admin rights to install VSCode.*
 
 #### Launch Visual Studio Code
 
-The app should open automatically upon completion of the installation. It will open a pre-made project (`cmake-project`), which contains:
-- a `CMakeLists.txt` file with compilation instructions.
-- a `main.cpp` file with the C++ code.
-- a `build` folder, created by Visual Studio Code, which you can ignore.
+* In the terminal, `cd` into `~/projects`.
+* Type `code` to run Visual Studio Code.
+* Click on the button to trust the source.
+* On the File tab at the top left corner press `Open folder`. 
 
-Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+![open folder](img/open_folder.png)
 
-<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/zu-PqYz2xCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Open `bootstrap-linux-x86_64/projects/hello_world/`.
+* Press the Kit button on the bottom bar  and select `Clang++ cpp4bio`. 
 
-*Watch on YouTube for higher video quality*
+![choose compiler](img/choose_compiler.png)
+
+* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
+* You have now correctly installed VS Code and the necessary tools for the course.
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
