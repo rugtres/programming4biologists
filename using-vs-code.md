@@ -108,4 +108,14 @@ If you get this error while installing gdb with `make`:
 2. Run `make` again. It should complete without error this time.
 3. Go back to step 8 above and complete the instructions.
 
+## Working on each chapter
+
+A suggested way to organise your files involves splitting each chapter in a separate folder.
+* Make a copy the `hello_world` folder in the `projects/` folder.
+* Rename it to something of your choice, for example `chapter1`.
+* Open VS Code as described in the installation section above and repeat the `Open folder` step. This time, select your new folder.
+* It is possible that the contents you copied over contain some lingering folder specific files. To set things up properly, right click on the CMakeLists from within VS Code and choose Clean Reconfigure All Projects.
+![clean rebuild](img/clean_rebuild.png)
+* You should now be able to build and run the code in your new folder.
+
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
