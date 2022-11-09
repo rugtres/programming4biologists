@@ -10,47 +10,26 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 * Table of Contents
 {:toc}
 
-### Windows OS / UWP
-#### Install Visual Studio Code
-##### UWP (X-drive)
+### Windows OS
 
-1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
-2. Run the installer by double-clicking on it. Set `X:\msys64` as installation folder.
-3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
-4. Run `setup_X.bat`. 
- 
-*If prompted during installation, accept all default choices with [Y]es or press **Enter** when appropriate. You can ignore warnings.*
+* Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `portable_mingw_vscode.7z`. If you do not have 7-zip installed in your computer, either install it from the [website](https://www.7-zip.org/download.html) or download the portable version `7z2201-x64.zip` from the same shared folder. 
+* Extract the `portable_mingw_vscode.7z` archive with 7-zip to your desktop. If you are using the portable version of 7-zip, first extract the 7-zip  archive to a folder, open `7zFM.exe` and use it to extract `portable_mingw_vscode.7z` to your desktop.
+* Navigate to `portable_mingw_vscode/vscode/` and open `Code.exe`. 
 
-*Note that the command will take a long time on *uwp.rug.nl*.*
+![run vscode](img/run_vscode.png)
 
-##### Regular Windows (C-drive)
+* Click on the button to trust the source.
+* On the File tab at the top left corner press `Open folder`. 
 
-1. Download the [msys2 installer](https://github.com/msys2/msys2-installer/releases/download/2021-07-25/msys2-x86_64-20210725.exe). 
-2. Run the installer by double-clicking on it. Keep the default installation folder (`C:\msys64`).
-3. Download [this ![zip](img/zip.png) zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip) and extract the folder to the Desktop. 
-4. Run `setup_C.bat` as administrator.
+![open folder](img/open_folder.png)
 
-*If prompted during installation, accept all default choices with [Y]es or press **Enter** when appropriate. You can ignore warnings.*
+* Open `portable_mingw_vscode/projects/hello_world/`.
+* Press the Kit button on the bottom bar  and select `Clang++ cpp4bio`. 
 
-#### Launch Visual Studio Code
+![choose compiler](img/choose_compiler.png)
 
-After installation, you can find the folder `vscode_projects` on the installation drive (`X:` or `C:`) and within it the file `launch_vscode.bat`. 
-Use this script to run Visual Studio Code. It will open a pre-made project (`cmake-project`), which contains:
-- a `CMakeLists.txt` file with compilation instructions.
-- a `main.cpp` file with the C++ code.
-- a `build` folder, created by Visual Studio Code, which you can ignore.
-
-Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
-
-<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BABFmX2WKL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*If Visual Studio Code cannot find the compiler, you will need to add to the Windows PATH environment. To do so:*
-
-1. In the Windows search bar, type `settings` to open your **Windows Settings**.
-2. Search for **Edit environment variables for your account**.
-3. Choose the **Path** variable and then select **Edit**.
-4. Select **New** and add the Mingw-w64 destination folder path to the system path: `C:\msys64\mingw64\bin`.
-5. Select **OK** to save the updated PATH. You may need to re-open Visual Studio Code for it to take effect.
+* Click on `main.cpp` and press the Play button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
+* You have now correctly installed VS Code and the necessary tools for the course.
 
 ### Mac OS
 
@@ -98,5 +77,15 @@ Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
 Just click on **Trust**, and you're good to go!*
+
+## Working on each chapter
+
+A suggested way to organise your files involves splitting each chapter in a separate folder.
+* Make a copy the `hello_world` folder in the `projects/` folder.
+* Rename it to something of your choice, for example `chapter1`.
+* Open VS Code as described in the installation section above and repeat the `Open folder` step. This time, select your new folder.
+* It is possible that the contents you copied over contain some lingering folder specific files. To set things up properly, right click on the CMakeLists from within VS Code and choose Clean Reconfigure All Projects.
+![clean rebuild](img/clean_rebuild.png)
+* You should now be able to build and run the code in your new folder.
 
 [![Home](/img/home.jpg)](https://rugtres.github.io/programming4biologists/)
