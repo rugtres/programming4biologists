@@ -12,7 +12,7 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 
 ### Windows OS
 #### Install Visual Studio Code
-* Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `portable_mingw_vscode.7z`. If you do not have 7-zip installed in your computer, either install it from the [website](https://www.7-zip.org/download.html) or download the portable version `7z2201-x64.zip` from the same shared folder. 
+* Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `portable_mingw_vscode.7z`. If you do not have 7-zip installed in your computer, either install it from the [website](https://www.7-zip.org/download.html) or download the portable version `7z2201-x64.zip` from the same shared folder. Alternatively, if your connection is stable and fast you can download the `portable_mingw_vscode.zip` archive instead and extract without needeing to install and use 7-zip.
 * Extract the `portable_mingw_vscode.7z` archive with 7-zip to your desktop. If you are using the portable version of 7-zip, first extract the 7-zip  archive to a folder, open `7zFM.exe` and use it to extract `portable_mingw_vscode.7z` to your desktop.
 
 #### Launch Visual Studio Code
@@ -35,22 +35,28 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 
 ### Mac OS
 
-#### Install Visual Studio Code
+#### Install Homebrew
 
-1. [Download Visual Studio Code](https://go.microsoft.com/fwlink/?LinkID=534106) for macOS.
-2. Open the browser's download list and locate the downloaded archive.
-3. Extract the archive contents. Use double-click for some browsers or select the 'magnifying glass' icon with Safari.
-4. Drag `Visual Studio Code.app` to the `Applications` folder, making it available in the macOS Launchpad.
-5. Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing **Options, Keep in Dock**.
+Open a terminal and run
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-#### Launch Visual Studio Code and add Extensions
-Open VSCode (Code) and navigate to the left-hand side menu. Click on the **Extensions** symbol ![ext](img/extensions.png). There, look for and install the following extensions:
-- `ms-vscode.cmake-tools` (CMake Tools)
-- `ms-vscode.cpptools` (C/C++)
+### Install Visual Studio Code
 
-<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/BdNvJKxaBb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+While still in the terminal run
+```
+brew install wget cmake
+brew install --cask visual-studio-code
+code --install-extension ms-vscode.cpptools --force
+code --install-extension ms-vscode.cpptools-themes --force
+code --install-extension ms-vscode.cpptools-extension-pack --force
+```
 
-Download [this ![zip](img/zip.png) zip](https://github.com/rugtres/cmake-project/archive/refs/heads/main.zip), unzip it and open the project in Visual Studio Code. Click on the **Launch** button ![launch](img/launch.png) in the bottom menu. The programme `main.cpp` should compile and print "Hello CMake" to the screen.
+* Download the `bootstrap_mac.zip` [folder](https://drive.google.com/file/d/1hiZCdaS09biA3mDYn8hRJtMyFeA-ZxK-/view?usp=share_link).
+* Now copy the `projects` folder to your home-directory.</br>
+* Start Visual Studio Code and select `Open folder...` from the `File` menu.</br>
+* Navigate to `projects/hello_world`.
 
 ### Linux OS
 
