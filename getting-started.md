@@ -42,7 +42,7 @@ Open a terminal and run
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### Install Visual Studio Code
+#### Install Visual Studio Code
 
 While still in the terminal run
 ```
