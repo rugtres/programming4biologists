@@ -1,4 +1,4 @@
-# vscode_linux
+# installer-linux-mac
 
 Collection of install scripts for various distributions.
 
