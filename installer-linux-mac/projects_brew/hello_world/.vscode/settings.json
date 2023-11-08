@@ -1,7 +1,7 @@
 {
     "cmake.configureOnEdit": true,
     "cmake.configureOnOpen": true,
-    "cmake.automaticReconfigure": true,
-    "cmake.buildBeforeRun": true
+    "cmake.buildBeforeRun": true,
+    "cmake.automaticReconfigure": true
 }
 
