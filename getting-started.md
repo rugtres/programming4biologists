@@ -11,26 +11,27 @@ We will use VSCode to learn C++, so buckle up and let's get started! Follow the 
 {:toc}
 
 ### Windows OS
+
 #### Install Visual Studio Code
-* Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `portable_mingw_vscode.7z`. If you do not have 7-zip installed in your computer, either install it from the [website](https://www.7-zip.org/download.html) or download the portable version `7z2201-x64.zip` from the same shared folder. Alternatively, if your connection is stable and fast you can download the `portable_mingw_vscode.zip` archive instead and extract without needeing to install and use 7-zip.
-* Extract the `portable_mingw_vscode.7z` archive with 7-zip to your desktop. If you are using the portable version of 7-zip, first extract the 7-zip  archive to a folder, open `7zFM.exe` and use it to extract `portable_mingw_vscode.7z` to your desktop.
+
+* Access the shared [folder](https://drive.google.com/drive/folders/1D3FQNhDLFY7mzvIzMqOtc9LIBlh_yaRr?usp=share_link) and download `cpp4pio_2023.zip`.
+* Open the downloaded `cpp4bio_2023.zip`archive and move the containing folder `cpp4bio` to your Desktop.
 
 #### Launch Visual Studio Code
-* Navigate to `portable_mingw_vscode/vscode/` and open `Code.exe`. 
+* Navigate to `cpp4bio/vscode/` and open (double-click) `Code.exe`. 
 
 ![run vscode](img/run_vscode.png)
 
-* Click on the button to trust the source.
 * On the File tab at the top left corner press `Open folder`. 
 
 ![open folder](img/open_folder.png)
 
-* Open `portable_mingw_vscode/projects/hello_world/`.
+* Select `cpp4bio/projects/hello_world/`.
 * Press the Kit button on the bottom bar  and select `Clang++ cpp4bio`. 
 
 ![choose compiler](img/choose_compiler.png)
 
-* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
+* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. Both these steps should compile and print `Hello world!` to the console.
 * You have now correctly installed VS Code and the necessary tools for the course.
 
 ### Mac OS
