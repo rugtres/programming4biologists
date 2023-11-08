@@ -1,7 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "security.workspace.trust.enabled": false,
-    "task.allowAutomaticTasks": "on"
-}

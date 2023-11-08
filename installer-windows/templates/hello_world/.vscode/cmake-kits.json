@@ -1,9 +1,0 @@
-[
-    {
-      "name": "Clang++ cpp4bio",
-      "compilers": {
-        "C": "${workspaceFolder}\\..\\..\\ucrt64\\bin\\clang.exe",
-        "CXX": "${workspaceFolder}\\..\\..\\ucrt64\\bin\\clang++.exe"
-      }
-    }
-]

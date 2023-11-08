@@ -1,6 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "cmake.configureOnOpen": true,
-    "cmake.cmakePath": "/usr/local/bin/cmake",
-    "cmake.buildDirectory": "${workspaceFolder}/../build/${workspaceFolderBasename}"
-}
