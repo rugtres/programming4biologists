@@ -1,6 +1,0 @@
-[submodule "vscode-installer-linux"]
-	path = vscode-installer-linux
-	url = git@github.com:rugtres/vscode-installer-linux.git
-[submodule "vscode-installer-windows"]
-	path = vscode-installer-windows
-	url = git@github.com:rugtres/vscode-installer-windows.git
