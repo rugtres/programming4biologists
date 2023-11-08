@@ -1,0 +1,11 @@
+<Configuration>
+  <VGpu>Disable</VGpu>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>%USERPROFILE%\Desktop\programming4biologists\installer-windows</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\installer-windows</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>
