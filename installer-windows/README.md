@@ -13,7 +13,7 @@ Download `cpp4bio_2023.zip`, open the `zip` file and move the contained folder `
 
 Download [this repository as zip](https://github.com/HHildenbrandt/uwp_vscode_setup/archive/refs/heads/master.zip)
 and extract it to, say, your Desktop. **Don't extract to an network-share** as this would break things.<br>
-Open the extracted folder and run (double-click) `bootstrap.bat`.<br>
+Open the extracted folder and run (double-click) `installer-windows\bootstrap.bat`.<br>
 After quite some time, File Explorer will open our `cpp4bio` root folder.
 
 ### External drive
@@ -24,6 +24,7 @@ Open the extracted folder and type `powershell` + `Enter` in the File Explorer A
 In the terminal, type:
 
 ```powershell
+cd installer-windows
 .\bootstrap.bat D:
 ```
 
