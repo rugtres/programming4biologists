@@ -36,7 +36,7 @@ Next,
 ./bootstrap-brew.sh
 ```
 
-## rdnf (Fedora, Red Hat)
+## dnf (Fedora, Red Hat)
 
 ```
 ./bootstrap-dnf.sh

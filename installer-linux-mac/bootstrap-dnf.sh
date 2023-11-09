@@ -30,5 +30,4 @@ install_code_extension shd101wyy.markdown-preview-enhanced
 install_code_extension lanza.lldb-vscode
 
 mkdir $HOME/cpp4bio
-cp -r ./projects_rpm/ $HOME/cpp4bio/projects/
-
+cp -r ./projects_dnf/ $HOME/cpp4bio/projects/
