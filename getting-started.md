@@ -93,7 +93,7 @@ Inside Visual Studio Code
 
 ![choose compiler](img/choose_compiler.png)
 
-* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `C++ (GDB/LLDB)` as a debugger. Both these steps should compile and print `Hello world!` to the console.
+* Click on `main.cpp` and press the **Launch**![launch](img/launch.png) button on the bottom bar to run, or the bug button to run the debugger. If prompted, select `(lldb) launch`. Both these steps should compile and print `Hello world!` to the console.
 * You have now correctly installed VS Code and the necessary tools for the course.
 
 *It might be that upon opening Visual Studio Code, some of the installed extensions are disabled. This is because you are using VS code in restricted mode. 
