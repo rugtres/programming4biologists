@@ -36,10 +36,10 @@ Next,
 ./bootstrap-brew.sh
 ```
 
-## rpm/dnf (Fedora, Red Hat)
+## rdnf (Fedora, Red Hat)
 
 ```
-./bootstrap-rpm.sh
+./bootstrap-dnf.sh
 ```
 
 ## Whats next

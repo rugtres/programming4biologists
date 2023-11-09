@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# bootstraps clang-llvm & vscode for cpp4bio rpm version
+# bootstraps clang-llvm & vscode for cpp4bio brew version
 #
 # Hanno Hildenbrandt 2023
 
@@ -10,11 +10,11 @@ install_code_extension() {
 }
 
 # Homebrew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Misc
-brew install wget cmake visual-studio-code
-brew install --with-toolchain llvm
+sudo brew install wget cmake visual-studio-code
+sudo brew install --with-toolchain llvm
 
 # vscode extensions
 install_code_extension ms-vscode-remote.remote-ssh
