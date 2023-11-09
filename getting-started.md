@@ -69,8 +69,10 @@ chmod +x ./bootstrap-*
 
 # else if your package manager is 'dnf' (Fedora, Red Hat) run:
 ./bootstrap-dnf.sh
-```
 
+# else if your package manager is 'pacman' (Arch, Manjaro) run:
+./bootstrap-pacman.sh
+```
 #### Launch Visual Studio Code (Mac, Linux)
 
 An most platforms, you should find `Code` or `Visual Studio Code` as application.
