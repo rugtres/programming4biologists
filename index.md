@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>48 (28711 - 01/12)</td>
-    <td>Module 15 / 16 / 17</td>
+    <td>Module 15 / 16 / 17 + Mini-project</td>
     <td>Modules 15 - 17</td>
   </tr>
   <tr>
