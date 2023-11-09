@@ -34,4 +34,4 @@ install_code_extension lanza.lldb-vscode
 install_code_extension vadimcn.vscode-lldb
 
 mkdir $HOME/cpp4bio
-cp -r ./projects_rpm/ $HOME/cpp4bio/projects/
+cp -r ./projects_apt/ $HOME/cpp4bio/projects/

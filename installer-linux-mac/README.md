@@ -43,6 +43,12 @@ Next,
 ./bootstrap-dnf.sh
 ```
 
+## pacman (Arch, Manjaro)
+
+```
+./bootstrap-pacman.sh
+```
+
 ## Whats next
 
 If(!) the scripts worked, you can find a folder `cpp4bio` in your home directory and

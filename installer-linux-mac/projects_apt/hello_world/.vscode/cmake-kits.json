@@ -2,8 +2,8 @@
     {
       "name": "Clang++ cpp4bio",
       "compilers": {
-        "C": "/bin/clang",
-        "CXX": "/bin/clang++"
+        "C": "/usr/bin/clang",
+        "CXX": "/usr/bin/clang++"
       }
     }
 ]
