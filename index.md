@@ -1,6 +1,6 @@
 ## [![Home](img/home.jpg)](https://rugtres.github.io/programming4biologists/) Home
 
-### [Schedule](https://rugtres.github.io/programming4biologists/schedule)
+### Schedule
 
 <table>
   <tr>
