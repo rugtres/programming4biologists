@@ -2,7 +2,8 @@
 
 Collection of install scripts for various distributions.
 
-Download [this repository as zip](https://github.com/rugtres/programming4biologists/archive/refs/heads/main.zip) and extract the folder `installer-linux-mac` to your home folder.
+Download [this repository as zip](https://github.com/rugtres/programming4biologists/archive/refs/heads/main.zip) and extract 
+the folder `installer-linux-mac` to your home folder.
 
 Open a terminal and run:
 
@@ -11,7 +12,7 @@ cd $HOME/installer-linux-mac
 chmod +x ./bootstrap*
 ```
 
-The next steps depends on your platform/distrubution. They are organized it by the package-manager used. Look for the instructions below that match your system best...
+The next steps depends on your platform/distribution. They are organized it by the package-manager used. Look for the instructions below that match your system best...
 
 ## apt (Ubuntu, Debian, Mint)
 
