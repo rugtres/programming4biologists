@@ -48,7 +48,7 @@ sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/insta
 Next, while still in the terminal, run:
 
 ```bash
-cd ~/cpp4bio_linux_max_2023
+cd ~/cpp4bio_linux_mac_2023
 chmod +x ./bootstrap-brew.sh
 ./bootstrap-brew.sh
 ```
