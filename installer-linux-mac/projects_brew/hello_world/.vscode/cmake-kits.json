@@ -1,9 +1,0 @@
-[
-    {
-      "name": "Clang++ cpp4bio",
-      "compilers": {
-        "C": "/usr/local/opt/llvm/bin/clang",
-        "CXX": "/usr/local/opt/llvm/bin/clang++"
-      }
-    }
-]

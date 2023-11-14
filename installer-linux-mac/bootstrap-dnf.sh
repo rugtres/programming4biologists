@@ -31,3 +31,11 @@ install_code_extension lanza.lldb-vscode
 
 mkdir $HOME/cpp4bio
 cp -r ./projects_dnf/ $HOME/cpp4bio/projects/
+
+JSON=$HOME/cpp4bio/projects/hello_world/.vscode/
+CLANG=`which clang`
+CLANGPP=`which clang++`
+CMAKE=`which cmake`
+echo [{\"name\": \"Clang++ cpp4bio\",\"compilers\": {\"C\": \"$CLANG\",\"CXX\": \"$CLANGPP\"}}] > "$JSON/cmake-kits.json"
+echo {\"cmake.configureOnEdit\": true,\"cmake.configureOnOpen\": true,\"cmake.automaticReconfigure\": true,\"cmake.buildBeforeRun\": true, > "$JSON/settings.json"
+echo \"cmake.cmakePath\": \"$CMAKE\",} >> "$JSON/settings.json"
