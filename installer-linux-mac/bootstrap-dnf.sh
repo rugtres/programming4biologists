@@ -10,7 +10,7 @@ install_code_extension() {
 }
 
 sudo dnf update
-sudo dnf install clang lldb cmake ninja-build
+sudo dnf install zip clang lldb cmake ninja-build
 
 
 if [ -z `which code` ]; then

@@ -9,7 +9,7 @@ install_code_extension() {
         code --install-extension $1 --force
 }
 
-sudo pacman -S --noconfirm git cmake wget clang lldb code
+sudo pacman -S --noconfirm git zip cmake wget clang lldb code
 
 install_code_extension ms-vscode.cpptools-extension-pack
 install_code_extension ms-vscode.cmake-tools

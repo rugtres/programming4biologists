@@ -13,7 +13,7 @@ install_code_extension() {
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Misc
-brew install wget cmake visual-studio-code
+brew install wget zip cmake visual-studio-code
 brew install --with-toolchain llvm
 
 # vscode extensions

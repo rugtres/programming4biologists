@@ -9,15 +9,13 @@ install_code_extension() {
         code --install-extension $1 --force
 }
 
-instal_llvm() {
-        sudo apt update
-        sudo apt -y install wget dpkg cmake ninja-build
-        wget https://apt.llvm.org/llvm.sh
-        chmod +x ./llvm.sh
-        sudo ./llvm.sh 17
-}
+sudo apt update
+sudo apt -y install zip wget dpkg cmake ninja-build
 
-# install_llvm
+# LLVM
+wget https://apt.llvm.org/llvm.sh
+chmod +x ./llvm.sh
+sudo ./llvm.sh 17
 
 if [ -z `which code` ]; then
 	wget https://go.microsoft.https;com/fwlink/?LinkID=760868 -O vscode.deb
