@@ -9,37 +9,21 @@
     <th>Master's</th>
   </tr>
   <tr>
-    <td>46 (13/11 - 17/11)</td>
+    <td>46 (11/11 - 15/11)</td>
     <td colspan="2" style="text-align:center">Modules 1 - 6</td>
   </tr>
   <tr>
-    <td>47 (20/11 - 24/11)</td>
+    <td>47 (18/11 - 22/11)</td>
     <td colspan="2" style="text-align:center">Modules 7 - 12</td>
   </tr>
   <tr>
-    <td>48 (28711 - 01/12)</td>
+    <td>48 (25/11 - 29/11)</td>
     <td>Module 15 / 16 / 17 + Mini-project</td>
     <td>Modules 15 - 17</td>
-  </tr>
-  <tr>
-    <td>49 (04/12 - 08/12)</td>
-    <td>x</td>
-    <td>Project</td>
-  </tr>
-  <tr>
-    <td>50 (11/12 - 15/12)</td>
-    <td>x</td>
-    <td>Project</td>
-  </tr>
-  <tr>
-    <td>51 (18/12 - 22/12)</td>
-    <td>x</td>
-    <td>Project</td>
   </tr>
 </table>
 
 | **Time** | 9:00-12:00, 13:00-17:00 |
-| **Location** |  LB 5173.0149 | 
 
 ### Resources
 
