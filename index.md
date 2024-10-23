@@ -29,7 +29,7 @@
 
 | [![laptop](img/laptop.png) Getting Started](https://rugtres.github.io/programming4biologists/getting-started) | 
 | [![laptop](img/laptop.png) Using Visual Studio Code](https://rugtres.github.io/programming4biologists/using-vs-code) | 
-| [![book](img/book.png) Lecture Manual](https://github.com/rugtres/programming4biologists/blob/6f7eb2d7735704c3f4f828f633fba361906b4a38/Syllabus_2024.pdf) |
+| [![book](img/book.png) Lecture Manual](https://raw.githubusercontent.com/rugtres/programming4biologists/gh-pages/Syllabus_2024.pdf) |
 
 
 ### Support
