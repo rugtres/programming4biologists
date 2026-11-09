@@ -5,21 +5,18 @@
 <table>
   <tr>
     <th>Week</th>
-    <th>Bachelor's</th>
-    <th>Master's</th>
   </tr>
   <tr>
-    <td>46 (11/11 - 15/11)</td>
-    <td colspan="2" style="text-align:center">Modules 1 - 6</td>
+    <td>46 (9/11 - 13/11)</td>
+    <td colspan="2" style="text-align:center">Modules 1 - 9</td>
   </tr>
   <tr>
-    <td>47 (18/11 - 22/11)</td>
-    <td colspan="2" style="text-align:center">Modules 7 - 12</td>
+    <td>47 (16/11 - 20/11)</td>
+    <td colspan="2" style="text-align:center">Modules 10 - 14</td>
   </tr>
   <tr>
-    <td>48 (25/11 - 29/11)</td>
-    <td>Module 15 / 16 / 17 + Mini-project</td>
-    <td>Modules 15 - 17</td>
+    <td>48 (23/11 - 27/11)</td>
+    <td>Module 15 Mini-project</td>
   </tr>
 </table>
 
